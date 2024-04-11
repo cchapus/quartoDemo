@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.5.0](https://github.com/cchapus/quartoDemo/compare/v1.4.0...v1.5.0) (2024-04-11)
+
+
+### Features
+
+* add DOI zenodo ([fa9c7eb](https://github.com/cchapus/quartoDemo/commit/fa9c7eb75dd31764ed82a0dc0fdffdec7cf4545d))
+
 ## [1.4.0](https://github.com/cchapus/quartoDemo/compare/v1.3.0...v1.4.0) (2024-04-11)
 
 
