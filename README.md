@@ -1,5 +1,7 @@
 # Test 
 
+[![DOI](https://zenodo.org/badge/785148462.svg)](https://zenodo.org/doi/10.5281/zenodo.10960730)
+
 ## Disponibilité du site
 
 Le site est disponible sur ce [site web](https://cchapus.github.io/quartoDemo/)
