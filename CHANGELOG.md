@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.0](https://github.com/cchapus/quartoDemo/compare/v1.2.0...v1.3.0) (2024-04-11)
+
+
+### Features
+
+* add the docs for the analyses ([6d6a2d4](https://github.com/cchapus/quartoDemo/commit/6d6a2d47759460fc76b5e70d8f50d20852a93778))
+
 ## [1.2.0](https://github.com/cchapus/quartoDemo/compare/v1.1.0...v1.2.0) (2024-04-11)
 
 
