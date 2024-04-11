@@ -1,5 +1,10 @@
 # Test 
 
+## Contribution
+
+Please see [Contribution file](CONTRIBUTION.md).
+
+
 ## Contributor Code of Conductor
 
 Please note that this project is released with a
